@@ -1,0 +1,13 @@
+.todoItems{
+    margin: 10px 1200px 10px 10px
+}
+.deleteItems{
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+.checkBox{
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
